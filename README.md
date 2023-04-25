@@ -120,7 +120,7 @@ Ajude os amigos a encontrar o número de problemas para os quais eles escreverã
 
 ```
 [[true, true, false],
-[true, false, false],
+[true, false, true],
 [true, true, true],
 [false, false, true]]
 ```
